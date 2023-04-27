@@ -53,4 +53,5 @@ def main():
         numCommits = moduleCommitMap[i][1]
         print("{m}, {n}".format(m=module, n=numCommits))
 
+
 main()
